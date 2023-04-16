@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Study\\PROJ-600-002 Agile Project Management\\Project2022-ContentManager\\Project2022-ContentManager\\Project2022-ContentManager\\Project2022-ContentManager.csproj": {}
+  },
+  "projects": {
+    "D:\\Study\\PROJ-600-002 Agile Project Management\\Project2022-ContentManager\\Project2022-ContentManager\\Project2022-ContentManager\\Project2022-ContentManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\PROJ-600-002 Agile Project Management\\Project2022-ContentManager\\Project2022-ContentManager\\Project2022-ContentManager\\Project2022-ContentManager.csproj",
+        "projectName": "Project2022-ContentManager",
+        "projectPath": "D:\\Study\\PROJ-600-002 Agile Project Management\\Project2022-ContentManager\\Project2022-ContentManager\\Project2022-ContentManager\\Project2022-ContentManager.csproj",
+        "packagesPath": "C:\\Users\\Aman Bidla\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\PROJ-600-002 Agile Project Management\\Project2022-ContentManager\\Project2022-ContentManager\\Project2022-ContentManager\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aman Bidla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

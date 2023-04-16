@@ -1,0 +1,102 @@
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\Project2022-ContentManager.pdb
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\csc.exe
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\csc.exe.config
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\csc.rsp
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\csi.exe
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\csi.exe.config
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\csi.rsp
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\vbc.exe
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\vbc.exe.config
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\vbc.rsp
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\obj\Debug\Project2022-ContentManager.csproj.AssemblyReference.cache
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\obj\Debug\Project2022-ContentManager.csproj.CoreCompileInputs.cache
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\obj\Debug\Project2022-ContentManager.csproj.CopyComplete
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\obj\Debug\Project2022-ContentManager.pdb
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\Project2022-ContentManager.dll.config
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\Project2022-ContentManager.dll
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\obj\Debug\Project2022-ContentManager.dll
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\EntityFramework.dll
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\EntityFramework.SqlServer.dll
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\EntityFramework.xml
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\EntityFramework.SqlServer.xml
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\System.Buffers.dll
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\System.Memory.dll
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\bandu\OneDrive\Documents\Source\Repos\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\Project2022-ContentManager.dll.config
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\Project2022-ContentManager.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\Project2022-ContentManager.pdb
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\csc.exe
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\csc.exe.config
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\csc.rsp
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\csi.exe
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\csi.exe.config
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\csi.rsp
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\System.Buffers.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\System.Memory.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\System.Numerics.Vectors.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\vbc.exe
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\vbc.exe.config
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\vbc.rsp
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\VBCSCompiler.exe
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\Microsoft.Extensions.Logging.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\Microsoft.Extensions.Options.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\Microsoft.Extensions.Primitives.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\System.Buffers.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\System.Memory.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\System.Numerics.Vectors.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\System.Threading.Tasks.Extensions.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\System.ValueTuple.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\EntityFramework.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\EntityFramework.SqlServer.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\EntityFramework.xml
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\EntityFramework.SqlServer.xml
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\obj\Debug\Project2022-ContentManager.csproj.AssemblyReference.cache
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\obj\Debug\Project2022-ContentManager.csproj.CoreCompileInputs.cache
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\obj\Debug\Project2022-ContentManager.csproj.CopyComplete
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\obj\Debug\Project2022-ContentManager.dll
+D:\Study\PROJ-600-002 Agile Project Management\Project2022-ContentManager\Project2022-ContentManager\Project2022-ContentManager\obj\Debug\Project2022-ContentManager.pdb
